@@ -1,2 +1,2 @@
 # Practice_Repository
-For practicing on the lab
+I am editing this README file. Adding some more details about the project description.
